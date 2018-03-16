@@ -1,3 +1,3 @@
 # 基于 Mac OS 的安装
 
-coming soon
+参考 linux 下的安装，步骤一致，仅组件的安装方式不一样。

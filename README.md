@@ -4,8 +4,8 @@
   - [ flow.ci 简介 ](./intro_base.md)
   - [ flow.ci 整体架构 ](./intro_framework.md)
 * [ 2. 安装 flow.ci ](#)
-  - [ 基于 Linux 的安装 ](./cf_linux.md) 
-  - [ 基于 Mac OS 的安装 ](./cf_osx.md)
+  - [ 基于 Linux 的安装 【vincent 修改】](./cf_linux.md) 
+  - [ 基于 Mac OS 的安装【vincent 增加】 ](./cf_osx.md)
   - [ 基于 Docker 的安装 ](./cf_docker.md) 
 * [ 3. 快速入门 ](#) 
   - [ iOS 项目构建 ](./quick_iosBuild.md) 
@@ -25,8 +25,7 @@
   - [ 用户管理 ](./admin_members.md) 
   - [ 插件管理 ](./admin_plugin.md) 
   - [ Agent 管理 ](./admin_agent.md) 
-  - [ 证书管理 ](./admin_credentials.md
-) 
+  - [ 证书管理 ](./admin_credentials.md) 
   - [ 消息通知 ](./admin_msg.md) 
   - [ 系统信息 ](./admin_system_info.md) 
 
